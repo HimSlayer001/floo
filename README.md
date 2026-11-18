@@ -4,7 +4,7 @@ A desktop **floor plan designer** written in Java with Swing. Draw rooms on a gr
 
 ## Features
 
-- Grid canvas with mouse-driven room placement, moving and resizing
+- Grid canvas with mouse-driven room placement, and moving
 - Add, rotate and delete rooms
 - Doors and windows attached to room walls
 - Furniture library with icons (bed, chair, commode, dining set, shower, sink, sofa, stove, table, wash basin), rotatable once placed
